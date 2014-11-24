@@ -8,5 +8,5 @@ How to Install
 6. Go to your point of sale install via the browser
 7. LOGIN using
 username: admin 
-password:pointofsale
+password: pointofsale
 8. Enjoy
